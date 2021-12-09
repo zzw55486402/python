@@ -1,0 +1,382 @@
+子图 B-Graph I-Graph
+链表 B-Linear I-Linear
+右子树 B-Tree I-Tree I-Tree
+N叉树 B-Tree I-Tree I-Tree
+红黑树 B-Tree I-Tree I-Tree
+弗洛伊德算法 B-Graph I-Graph I-Graph I-Graph I-Graph I-Graph
+邻接点 B-Graph I-Graph I-Graph
+出队 B-Linear I-Linear
+大O表示法 B-Define I-Define I-Define I-Define I-Define
+队头指针 B-Linear I-Linear I-Linear I-Linear
+左孩子 B-Tree I-Tree I-Tree
+兄弟结点 B-Tree I-Tree I-Tree I-Tree
+顺序查找 B-Sort I-Sort I-Sort I-Sort
+直接定址法 B-Linear I-Linear I-Linear I-Linear I-Linear
+整型 B-Define I-Define
+树形结构 B-Tree I-Tree I-Tree I-Tree
+指针域 B-Linear I-Linear I-Linear
+查找表 B-Linear I-Linear I-Linear
+图结构 B-Graph I-Graph I-Graph
+AOV网 B-Graph I-Graph I-Graph I-Graph
+空表 B-Linear I-Linear
+指针数组 B-Linear I-Linear I-Linear I-Linear
+关键路径 B-Graph I-Graph I-Graph I-Graph
+三元组表 B-Linear I-Linear I-Linear I-Linear
+选择排序 B-Sort I-Sort I-Sort I-Sort
+压栈 B-Linear I-Linear
+关键字 B-Define I-Define I-Define
+数据项 B-Linear I-Linear I-Linear
+双亲 B-Tree I-Tree
+平衡二叉排序树 B-Tree I-Tree I-Tree I-Tree I-Tree I-Tree I-Tree
+Tarjan算法 B-Graph I-Graph I-Graph I-Graph I-Graph I-Graph I-Graph I-Graph
+后进先出 B-Linear I-Linear I-Linear I-Linear
+常量 B-Define I-Define
+循环队列 B-Sort I-Sort I-Sort I-Sort
+删除 B-Define I-Define
+引用 B-Define I-Define
+回溯法 B-Define I-Define I-Define
+索引表 B-Linear I-Linear I-Linear
+有序树 B-Tree I-Tree I-Tree
+空指针 B-Define I-Define I-Define
+根结点 B-Tree I-Tree I-Tree
+正确性 B-Define I-Define I-Define
+外部排序 B-Sort I-Sort I-Sort I-Sort
+可行性 B-Define I-Define I-Define
+嵌套调用 B-Define I-Define I-Define I-Define
+键树 B-Tree I-Tree
+插入 B-Linear I-Linear
+哈希表 B-Linear I-Linear I-Linear
+指示器 B-Define I-Define I-Define
+叶子结点 B-Tree I-Tree I-Tree I-Tree
+分块查找 B-Sort I-Sort I-Sort I-Sort
+队头 B-Linear I-Linear
+数据结构 B-Define I-Define I-Define I-Define
+字符序列 B-Define I-Define I-Define I-Define
+孩子结点 B-Tree I-Tree I-Tree I-Tree
+变量名 B-Define I-Define I-Define
+子集 B-Linear I-Linear
+变量 B-Define I-Define
+头结点 B-Linear I-Linear I-Linear
+迪杰斯特拉算法 B-Graph I-Graph I-Graph I-Graph I-Graph I-Graph I-Graph
+栈顶指针 B-Linear I-Linear I-Linear I-Linear
+折叠法 B-Define I-Define I-Define
+三维数组 B-Linear I-Linear I-Linear I-Linear
+双向循环链表 B-Linear I-Linear I-Linear I-Linear I-Linear I-Linear
+带权有向图 B-Graph I-Graph I-Graph I-Graph I-Graph
+空队列 B-Linear I-Linear I-Linear
+平衡因子 B-Tree I-Tree I-Tree I-Tree
+无向边 B-Graph I-Graph I-Graph
+贪心法 B-Define I-Define I-Define
+生成森林 B-Tree I-Tree I-Tree I-Tree
+有穷性 B-Define I-Define I-Define
+排序 B-Sort I-Sort
+模式匹配 B-Linear I-Linear I-Linear I-Linear
+栈顶 B-Linear I-Linear
+顺序映像 B-Linear I-Linear I-Linear I-Linear
+哈希函数 B-Linear I-Linear I-Linear I-Linear
+开放定址法 B-Linear I-Linear I-Linear I-Linear I-Linear
+形式参数 B-Define I-Define I-Define I-Define
+正则表达式 B-Define I-Define I-Define I-Define I-Define
+递归 B-Define I-Define
+询问 B-Define I-Define
+有序表 B-Linear I-Linear I-Linear
+深度 B-Graph I-Graph
+确定性 B-Define I-Define I-Define
+集合 B-Define I-Define
+克鲁斯卡尔算法 B-Graph I-Graph I-Graph I-Graph I-Graph I-Graph I-Graph
+递归函数 B-Define I-Define I-Define I-Define
+尾插法 B-Linear I-Linear I-Linear
+枚举型 B-Define I-Define I-Define
+快速排序 B-Sort I-Sort I-Sort I-Sort
+线性表 B-Linear I-Linear I-Linear
+B树 B-Tree I-Tree
+冲突 B-Linear I-Linear
+树形选择排序 B-Sort I-Sort I-Sort I-Sort I-Sort I-Sort
+实值参数 B-Define I-Define I-Define I-Define
+简单路径 B-Graph I-Graph I-Graph I-Graph
+链表结构 B-Linear I-Linear I-Linear I-Linear
+迭代器 B-Define I-Define I-Define
+有向边 B-Graph I-Graph I-Graph
+带权邻接矩阵 B-Graph I-Graph I-Graph I-Graph I-Graph I-Graph
+修改 B-Define I-Define
+压缩存储 B-Define I-Define I-Define I-Define
+路径 B-Graph I-Graph
+神经网络算法 B-Define I-Define I-Define I-Define I-Define I-Define
+内存 B-Define I-Define
+简单回路 B-Graph I-Graph I-Graph I-Graph
+连通图 B-Graph I-Graph I-Graph
+伸展树 B-Tree I-Tree I-Tree
+直接插入排序 B-Sort I-Sort I-Sort I-Sort I-Sort I-Sort
+普里姆算法 B-Graph I-Graph I-Graph I-Graph I-Graph
+查找效率 B-Define I-Define I-Define I-Define
+数据 B-Define I-Define
+检索 B-Define I-Define
+完全图 B-Graph I-Graph I-Graph
+NPC问题 B-Graph I-Graph I-Graph I-Graph I-Graph
+斐波那契查找 B-Sort I-Sort I-Sort I-Sort I-Sort I-Sort
+邻接表 B-Graph I-Graph I-Graph
+链式存储结构 B-Linear I-Linear I-Linear I-Linear I-Linear I-Linear
+回文串 B-Linear I-Linear I-Linear
+内存地址 B-Define I-Define I-Define I-Define
+连通分量 B-Graph I-Graph I-Graph I-Graph
+NP问题 B-Graph I-Graph I-Graph I-Graph
+数据元素 B-Linear I-Linear I-Linear I-Linear
+简单询问 B-Define I-Define I-Define I-Define
+元素 B-Linear I-Linear
+编译 B-Define I-Define
+二叉树 B-Tree I-Tree I-Tree
+时间复杂度 B-Define I-Define I-Define I-Define I-Define
+主关键字 B-Define I-Define I-Define I-Define
+内部排序 B-Sort I-Sort I-Sort I-Sort
+出度 B-Graph I-Graph
+带权路径长度 B-Graph I-Graph I-Graph I-Graph I-Graph I-Graph
+遍历二叉树 B-Tree I-Tree I-Tree I-Tree I-Tree
+强连通分量 B-Graph I-Graph I-Graph I-Graph I-Graph
+索引 B-Define I-Define
+活动 B-Define I-Define
+逻辑结构 B-Define I-Define I-Define I-Define
+顺序栈 B-Linear I-Linear I-Linear
+程序 B-Define I-Define
+插入排序 B-Sort I-Sort I-Sort I-Sort
+前驱 B-Graph I-Graph
+0-1背包问题 B-Define I-Define I-Define I-Define I-Define I-Define I-Define
+字符型 B-Define I-Define I-Define
+堆排序 B-Sort I-Sort I-Sort
+线索链表 B-Linear I-Linear I-Linear I-Linear
+最短路径 B-Graph I-Graph I-Graph I-Graph
+带权无向图 B-Graph I-Graph I-Graph I-Graph I-Graph
+算法 B-Define I-Define
+静态链表 B-Linear I-Linear I-Linear I-Linear
+线性数据结构 B-Linear I-Linear I-Linear I-Linear I-Linear I-Linear
+特殊矩阵 B-Tree I-Tree I-Tree I-Tree
+入队 B-Linear I-Linear
+顶点 B-Graph I-Graph
+剪枝 B-Tree I-Tree
+十字链表 B-Linear I-Linear I-Linear I-Linear
+虚拟存储存取方法 B-Define I-Define I-Define I-Define I-Define I-Define I-Define I-Define
+先进先出 B-Linear I-Linear I-Linear I-Linear
+递归算法 B-Sort I-Sort I-Sort I-Sort
+外部结点 B-Graph I-Graph I-Graph I-Graph
+索引顺序查找 B-Linear I-Linear I-Linear I-Linear I-Linear I-Linear
+BM算法 B-Sort I-Sort I-Sort I-Sort
+主串 B-Linear I-Linear
+模式串 B-Linear I-Linear I-Linear
+索引文件 B-Tree I-Tree I-Tree I-Tree
+链栈 B-Linear I-Linear
+回路 B-Graph I-Graph
+基数排序 B-Sort I-Sort I-Sort I-Sort
+顺序表 B-Linear I-Linear I-Linear
+哈希地址 B-Linear I-Linear I-Linear I-Linear
+稀疏矩阵 B-Graph I-Graph I-Graph I-Graph
+编码 B-Define I-Define
+遗传算法 B-Linear I-Linear I-Linear I-Linear
+AOE网 B-Graph I-Graph I-Graph I-Graph
+三叉链表 B-Linear I-Linear I-Linear I-Linear
+线索 B-Linear I-Linear
+折半插入排序 B-Sort I-Sort I-Sort I-Sort I-Sort I-Sort
+路径压缩 B-Graph I-Graph I-Graph I-Graph
+稀疏图 B-Graph I-Graph I-Graph
+背包问题 B-Define I-Define I-Define I-Define
+队尾指针 B-Linear I-Linear I-Linear I-Linear
+二叉链表 B-Linear I-Linear I-Linear I-Linear
+双端队列 B-Linear I-Linear I-Linear I-Linear
+优先队列 B-Linear I-Linear I-Linear I-Linear
+先序遍历 B-Tree I-Tree I-Tree I-Tree
+有向无环图 B-Graph I-Graph I-Graph I-Graph I-Graph
+多路查找树 B-Tree I-Tree I-Tree I-Tree I-Tree
+数组指针 B-Linear I-Linear I-Linear I-Linear
+归并排序 B-Sort I-Sort I-Sort I-Sort
+索引项 B-Linear I-Linear I-Linear
+强连通图 B-Graph I-Graph I-Graph I-Graph
+双亲结点 B-Tree I-Tree I-Tree I-Tree
+线性结构 B-Linear I-Linear I-Linear I-Linear
+后序遍历 B-Tree I-Tree I-Tree I-Tree
+频度 B-Define I-Define
+带权图 B-Graph I-Graph I-Graph
+移位叠加 B-Define I-Define I-Define I-Define
+单源最短路径 B-Graph I-Graph I-Graph I-Graph I-Graph I-Graph
+索引顺序文件 B-Linear I-Linear I-Linear I-Linear I-Linear I-Linear
+赋值 B-Define I-Define
+线性探测 B-Linear I-Linear I-Linear I-Linear
+有限序列 B-Linear I-Linear I-Linear I-Linear
+再哈希法 B-Linear I-Linear I-Linear I-Linear
+桶排序 B-Sort I-Sort I-Sort
+子串 B-Linear I-Linear
+栈底指针 B-Linear I-Linear I-Linear I-Linear
+表排序 B-Sort I-Sort I-Sort
+分治法 B-Sort I-Sort I-Sort
+最高位优先法 B-Sort I-Sort I-Sort I-Sort I-Sort I-Sort
+哈夫曼编码 B-Tree I-Tree I-Tree I-Tree I-Tree
+头指针 B-Linear I-Linear I-Linear
+引用参数 B-Define I-Define I-Define I-Define
+并查集 B-Linear I-Linear I-Linear
+等价关系 B-Define I-Define I-Define I-Define
+二叉排序树 B-Tree I-Tree I-Tree I-Tree I-Tree
+KMP算法 B-Linear I-Linear I-Linear I-Linear I-Linear
+邻接矩阵 B-Graph I-Graph I-Graph I-Graph
+前缀树 B-Tree I-Tree I-Tree
+条件语句 B-Define I-Define I-Define I-Define
+旅行商问题 B-Graph I-Graph I-Graph I-Graph I-Graph
+非顺序映像 B-Define I-Define I-Define I-Define I-Define
+AC自动机 B-Define I-Define I-Define I-Define I-Define
+抽象数据类型 B-Define I-Define I-Define I-Define I-Define I-Define
+内部结点 B-Linear I-Linear I-Linear I-Linear
+进栈 B-Linear I-Linear
+最小不平衡子树 B-Tree I-Tree I-Tree I-Tree I-Tree I-Tree I-Tree
+散列 B-Linear I-Linear
+表达式 B-Define I-Define I-Define
+循环链表 B-Linear I-Linear I-Linear I-Linear
+最优二叉树 B-Tree I-Tree I-Tree I-Tree I-Tree
+动态规划法 B-Define I-Define I-Define I-Define I-Define
+栈底 B-Linear I-Linear
+装填因子 B-Linear I-Linear I-Linear I-Linear
+指针 B-Define I-Define
+割点 B-Linear I-Linear
+左子树 B-Tree I-Tree I-Tree
+折半查找 B-Sort I-Sort I-Sort I-Sort
+空间复杂度 B-Define I-Define I-Define I-Define I-Define
+线索化 B-Tree I-Tree I-Tree
+无向图 B-Graph I-Graph I-Graph
+计数排序 B-Sort I-Sort I-Sort I-Sort
+中序遍历 B-Tree I-Tree I-Tree I-Tree
+链地址法 B-Sort I-Sort I-Sort I-Sort
+队尾元素 B-Linear I-Linear I-Linear I-Linear
+祖先 B-Tree I-Tree
+布鲁姆过滤器 B-Sort I-Sort I-Sort I-Sort I-Sort I-Sort
+文件 B-Define I-Define
+B+树 B-Tree I-Tree I-Tree
+负载因子 B-Linear I-Linear I-Linear I-Linear
+前序序列 B-Tree I-Tree I-Tree I-Tree
+有向树 B-Tree I-Tree I-Tree
+数组 B-Linear I-Linear
+双向链表 B-Linear I-Linear I-Linear I-Linear
+哈夫曼树 B-Tree I-Tree I-Tree I-Tree
+存储结构 B-Define I-Define I-Define I-Define
+入度 B-Graph I-Graph
+无序树 B-Tree I-Tree I-Tree
+P问题 B-Graph I-Graph I-Graph
+尾结点 B-Linear I-Linear I-Linear
+单向链表 B-Linear I-Linear I-Linear I-Linear
+数据域 B-Define I-Define I-Define
+深度优先遍历 B-Graph I-Graph I-Graph I-Graph I-Graph I-Graph
+字符 B-Define I-Define
+邻接多重表 B-Graph I-Graph I-Graph I-Graph I-Graph
+稠密索引 B-Linear I-Linear I-Linear I-Linear
+希尔排序 B-Sort I-Sort I-Sort I-Sort
+父结点 B-Tree I-Tree I-Tree
+广度优先遍历 B-Graph I-Graph I-Graph I-Graph I-Graph I-Graph
+存储地址 B-Define I-Define I-Define I-Define
+队列 B-Linear I-Linear
+物理结构 B-Define I-Define I-Define I-Define
+广义表 B-Graph I-Graph I-Graph
+森林 B-Tree I-Tree
+链域 B-Linear I-Linear
+完全二叉树 B-Tree I-Tree I-Tree I-Tree I-Tree
+扩充二叉树 B-Tree I-Tree I-Tree I-Tree I-Tree
+结构类型 B-Define I-Define I-Define I-Define
+拓扑排序 B-Sort I-Sort I-Sort I-Sort
+字典 B-Linear I-Linear
+子树 B-Tree I-Tree
+最小生成树 B-Tree I-Tree I-Tree I-Tree I-Tree
+表达式树 B-Tree I-Tree I-Tree I-Tree
+操作数 B-Define I-Define I-Define
+输入 B-Define I-Define
+后继 B-Graph I-Graph
+记录 B-Define I-Define
+二维数组 B-Linear I-Linear I-Linear I-Linear
+顺序文件 B-Linear I-Linear I-Linear I-Linear
+伪代码 B-Define I-Define I-Define
+平衡二叉树 B-Tree I-Tree I-Tree I-Tree I-Tree
+队头元素 B-Linear I-Linear I-Linear I-Linear
+多模匹配 B-Define I-Define I-Define I-Define
+右孩子 B-Tree I-Tree I-Tree
+符号表 B-Define I-Define I-Define
+输出 B-Define I-Define
+非线性数据结构 B-Tree I-Tree I-Tree I-Tree I-Tree I-Tree I-Tree
+二叉堆 B-Tree I-Tree I-Tree
+中缀表达式 B-Tree I-Tree I-Tree I-Tree I-Tree
+平均查找长度 B-Define I-Define I-Define I-Define I-Define I-Define
+BF算法 B-Tree I-Tree I-Tree I-Tree
+生成树 B-Tree I-Tree I-Tree
+赋值语句 B-Define I-Define I-Define I-Define
+结点 B-Linear I-Linear
+数据类型 B-Define I-Define I-Define I-Define
+头插法 B-Sort I-Sort I-Sort
+随机存取 B-Linear I-Linear I-Linear I-Linear
+有向图 B-Graph I-Graph I-Graph
+空树 B-Tree I-Tree
+反向索引 B-Linear I-Linear I-Linear I-Linear
+后缀树 B-Tree I-Tree I-Tree
+区间树 B-Tree I-Tree I-Tree
+图的遍历 B-Graph I-Graph I-Graph I-Graph
+整除 B-Define I-Define
+非连通图 B-Graph I-Graph I-Graph I-Graph
+起泡排序 B-Sort I-Sort I-Sort I-Sort
+递归法 B-Define I-Define I-Define
+二路插入排序 B-Sort I-Sort I-Sort I-Sort I-Sort I-Sort
+队尾 B-Define I-Define
+参数 B-Define I-Define
+度 B-Graph
+层序遍历 B-Tree I-Tree I-Tree I-Tree
+除留余数法 B-Define I-Define I-Define I-Define I-Define
+地址排序 B-Sort I-Sort I-Sort I-Sort
+满二叉树 B-Tree I-Tree I-Tree I-Tree
+非完全二叉树 B-Tree I-Tree I-Tree I-Tree I-Tree I-Tree
+胜者树 B-Tree I-Tree I-Tree
+中序序列 B-Tree I-Tree I-Tree I-Tree
+空栈 B-Linear I-Linear
+斐波那契数列 B-Define I-Define I-Define I-Define I-Define I-Define
+次优查找树 B-Tree I-Tree I-Tree I-Tree I-Tree
+负权边 B-Tree I-Tree I-Tree
+后序序列 B-Tree I-Tree I-Tree I-Tree
+链队列 B-Linear I-Linear I-Linear
+一维数组 B-Linear I-Linear I-Linear I-Linear
+深度优先生成树 B-Tree I-Tree I-Tree I-Tree I-Tree I-Tree I-Tree
+交换排序 B-Sort I-Sort I-Sort I-Sort
+替罪羊树 B-Tree I-Tree I-Tree I-Tree
+二元组 B-Linear I-Linear I-Linear
+约瑟夫环问题 B-Define I-Define I-Define I-Define I-Define I-Define
+静态查找表 B-Linear I-Linear I-Linear I-Linear I-Linear
+三叉树 B-Tree I-Tree I-Tree
+运算符 B-Define I-Define I-Define
+多源最短路径 B-Graph I-Graph I-Graph I-Graph I-Graph I-Graph
+网结构 B-Graph I-Graph I-Graph
+哨兵 B-Define I-Define
+树排序 B-Sort I-Sort I-Sort
+重连通图 B-Graph I-Graph I-Graph I-Graph
+哈夫曼二叉树 B-Tree I-Tree I-Tree I-Tree I-Tree I-Tree
+简单环 B-Graph I-Graph I-Graph
+取模 B-Define I-Define
+B-树 B-Tree I-Tree I-Tree
+KD树 B-Tree I-Tree I-Tree
+多关键字排序 B-Sort I-Sort I-Sort I-Sort I-Sort I-Sort
+出栈 B-Linear I-Linear
+字符串 B-Linear I-Linear I-Linear
+归并树 B-Tree I-Tree I-Tree
+空串 B-Linear I-Linear
+单向循环链表 B-Linear I-Linear I-Linear I-Linear I-Linear I-Linear
+关节点 B-Define I-Define I-Define
+动态查找表 B-Linear I-Linear I-Linear I-Linear I-Linear
+有序链表 B-Linear I-Linear I-Linear I-Linear
+遍历 B-Define I-Define
+双连通图 B-Graph I-Graph I-Graph I-Graph
+置换选择排序 B-Sort I-Sort I-Sort I-Sort I-Sort I-Sort
+无向树 B-Tree I-Tree I-Tree
+等价类 B-Define I-Define I-Define
+割边 B-Graph I-Graph
+无环图 B-Graph I-Graph I-Graph
+可读性 B-Define I-Define I-Define
+三元组 B-Linear I-Linear I-Linear
+顺串 B-Linear I-Linear
+败者树 B-Tree I-Tree I-Tree
+无向完全图 B-Graph I-Graph I-Graph I-Graph I-Graph
+线索二叉树 B-Tree I-Tree I-Tree I-Tree I-Tree
+链式基数排序 B-Sort I-Sort I-Sort I-Sort I-Sort I-Sort
+最佳归并树 B-Tree I-Tree I-Tree I-Tree I-Tree
+有向完全图 B-Graph I-Graph I-Graph I-Graph I-Graph
+广度优先生成树 B-Tree I-Tree I-Tree I-Tree I-Tree I-Tree I-Tree
+树形动态规划 B-Define I-Define I-Define I-Define I-Define I-Define
+线性链表 B-Linear I-Linear I-Linear I-Linear
+顺序结构 B-Linear I-Linear I-Linear I-Linear
+稠密图 B-Graph I-Graph I-Graph
+枚举法 B-Define I-Define I-Define
